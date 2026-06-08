@@ -1,4 +1,4 @@
 # FirstRepoggit
-It's just for Start
+It's just to Start
 <br>
 Author - Shivakant jaiswal(CS student)
